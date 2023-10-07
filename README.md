@@ -1,1 +1,1 @@
-Sorular ve cevapları .html zantılı dosyaların içindedir
+Sorular ve cevapları .html uzantılı dosyaların içindedir
